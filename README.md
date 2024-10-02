@@ -2,14 +2,14 @@
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
+* Información personal
+* Proyectos
+* Intereses
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Erick Lorenzo
+* Ocupación: Estudiante
+* Lugar de residencia: Ecucador
+* Sitio web: https://erillope.github.io/Erillope/
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
