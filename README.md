@@ -11,6 +11,11 @@ proyectos y mis intereses.
 * Lugar de residencia: Ecucador
 * Sitio web: https://erillope.github.io/Erillope/
 ## Proyectos
-* [Lista de tus proyectos]
+* Portafolio de Desarrollo Web
+* Aplicación de Gestión de Tareas
+* Blog sobre Tecnología
 ## Intereses
-* [Lista de tus intereses]
+* Desarrollo de software
+* Inteligencia artificial
+* Fotografía
+* Viajes
